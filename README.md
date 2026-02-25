@@ -21,11 +21,11 @@ public:
 };
 
 
-#### **Types of Constructors**
+## **Types of Constructors**
 
 ---
 
-#### **1.1 Default Constructor**
+###**1.1 Default Constructor**
 A default constructor is a constructor that takes no arguments. It initializes an object with default values.
 
 **Example from CodingGita:**  
