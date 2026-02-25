@@ -1,8 +1,9 @@
 # notes-oops-cons-decons
 Constructor
 
-A constructor is used to initialize the values of an object's data members at the time of object creation.
+Constructor
 
+A constructor is used to initialize the values of an object's data members at the time of object creation.
 It is automatically called when an object of the class is created.
 
 Example:
