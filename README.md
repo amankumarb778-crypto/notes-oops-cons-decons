@@ -23,3 +23,7 @@ public:
 
 
 ```
+## Destructor
+
+destructor -> it is a kind of function but get call automatically by 'c++ 
+compiler' when a particular object is get destory because of the block scope.
