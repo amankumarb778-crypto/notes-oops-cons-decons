@@ -1,12 +1,13 @@
 # notes-oops-cons-decons
-Constructor
+# notes-oops-cons-decons
 
-Constructor
+## Constructor
 
-A constructor is used to initialize the values of an object's data members at the time of object creation.
-It is automatically called when an object of the class is created.
+A constructor is used to initialize the values of an object's data members at the time of object creation. It is automatically called when an object of the class is created.
 
-Example:
+### Example
+
+```cpp
 class Student {
     // Data members
     string gender;
@@ -19,5 +20,3 @@ public:
         age = a;
     }
 };
-
-In this example, the constructor initializes the gender and age of a Student object when it is created.
